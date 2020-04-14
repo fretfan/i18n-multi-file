@@ -1,0 +1,12 @@
+{
+  "page2" : {
+    "msg1" : "page2-sõnum1",
+    "msg2" : "page2-sõnum2",
+    "msg3" : "page2-sõnum3",
+    "msg4" : "page2-sõnum4",
+    "msg5" : "page2-sõnum5",
+    "nested" : {
+      "nested1" : "page2-nested-sõnum1"
+    }
+  }
+}

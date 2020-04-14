@@ -1,6 +1,7 @@
 <template>
   <div class="page2">
     <h1>Page2 with messages</h1>
+    <p>{{ $t("global.msg1") }}</p>
     <p>{{ $t("page2.msg1") }}</p>
     <p>{{ $t("page2.msg2") }}</p>
     <p>{{ $t("page2.msg3") }}</p>
