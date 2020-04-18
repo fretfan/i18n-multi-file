@@ -12,7 +12,7 @@
         }}</option>
       </select>
     </div>
-    <p>{{ $t("global.msg1") }}</p>
+    <p>{{ $t("global.msg11") }}</p>
     <router-view />
   </div>
 </template>
